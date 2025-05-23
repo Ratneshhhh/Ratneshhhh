@@ -30,13 +30,25 @@ Whether it’s querying millions of rows, visualizing trends, or optimizing Exce
 
 ### Featured Projects
 
-## Open Source Projects
+- [**Insurance Claims Risk Scoring Model**](https://github.com/Ratneshhhh/Healthcare-Insurance-Analysis)  
+  - Built a predictive model using Random Forest Regression to score insurance claim risk levels.  
+  - Performed EDA to evaluate how lifestyle and medical data affect claim amounts.  
+  - Delivered insights through Power BI dashboards to support personalized policy design.
 
-| 🗂 Projects | ⭐ Stars | 🍴 Forks | 🐞 Issues | 📬 Pull Requests |
-|------------|---------|----------|------------|------------------|
-| [Healthcare Risk Analysis](https://github.com/Ratneshhhh/Healthcare-Insurance-Analysis) | 1 | 0 | 0 | 0 |
-| [Finance Risk Analysis for EU](https://github.com/Ratneshhhh/Finance_Risk_Analysis-for-EU) | 0 | 0 | 0 | 0 |
-| [Integrated Business Metrics Analyzer](https://github.com/Ratneshhhh/Integrated-Business_Metrics_Analyzer) | 0 | 0 | 0 | 0 |
+- [**Business Metrics Performance Dashboard**](https://github.com/Ratneshhhh/Integrated-Business_Metrics_Analyzer)  
+  - Combined multiple data sources using SQL to build a centralized performance dataset.  
+  - Created ER diagrams and applied data modeling for better structure and scalability.  
+  - Visualized KPIs to monitor financial and operational trends across departments.
+
+- [**Sales Trends & Product Performance Analysis**](https://github.com/Ratneshhhh/Amazon-Sales-Report-Analysis)  
+  - Conducted exploratory data analysis to identify seasonal trends and product insights.  
+  - Highlighted factors influencing revenue changes using visual storytelling.  
+  - Built an interactive Power BI dashboard to guide data-driven decision-making.
+
+- [**S&P 500 Market Anomaly Tracker**](https://github.com/Ratneshhhh/S-P_500_Index_Market_Anomaly_Tracker)  
+  - Created a Python-based system to detect stock market anomalies using Z-score and IQR.  
+  - Flagged unusual trading behavior and deviations for volatility management.  
+  - Visualized results to support strategic investment and portfolio analysis.
 
 ---
 
