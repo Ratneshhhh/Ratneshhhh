@@ -1,7 +1,6 @@
-# Hi there, I'm Ratnesh Yadav
+#  Hey! Nice to see you.
 
 **Data Analyst | Transforming raw data into actionable insights**  
-**Based in Ireland**
 
 I’m passionate about leveraging data to drive smarter business decisions. With a strong foundation in SQL, Python, and modern BI tools, I uncover patterns, automate reporting, and build intuitive dashboards. I thrive on solving real-world problems using clean data and clear logic.
 
