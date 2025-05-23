@@ -1,23 +1,30 @@
-# Hi, I'm Ratnesh Yadav
+# Hi there, I'm Ratnesh Yadav
 
-**Data Analyst | Empowering decisions with data**  
-Currently based in **Ireland**
+**Data Analyst | Transforming raw data into actionable insights**  
+**Based in Ireland**
 
-I'm a results-driven data analyst skilled in uncovering actionable insights and building impactful dashboards. I work with data across industries to support data-informed decisions using a combination of coding, analytics, and visualization tools.
+I’m passionate about leveraging data to drive smarter business decisions. With a strong foundation in SQL, Python, and modern BI tools, I uncover patterns, automate reporting, and build intuitive dashboards. I thrive on solving real-world problems using clean data and clear logic.
+
+Whether it’s querying millions of rows, visualizing trends, or optimizing Excel models — I bring data to life with clarity and purpose.
 
 ---
 
 ### Tools & Technologies I Use
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://lookerstudio.google.com/)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Power Query](https://img.shields.io/badge/-Power_Query-00B386?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/power-query/)
+[![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-2E8BC0?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib)](https://matplotlib.org/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Looker Studio](https://img.shields.io/badge/-Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://lookerstudio.google.com/)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 ---
 
@@ -36,7 +43,8 @@ I'm a results-driven data analyst skilled in uncovering actionable insights and 
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ratneshyadav1810)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ratneshyadav1810)  
+[![Portfolio Website](https://img.shields.io/badge/-ratneshyadav.net-000000?style=flat-square&logo=internet-explorer&logoColor=white)](https://www.ratneshyadav.net/)
 
 ---
 
