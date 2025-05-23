@@ -1,22 +1,23 @@
-# Hello! I'm Ratnesh Yadav
+# Hi, I'm Ratnesh Yadav
 
-**Data Analyst | Turning data into decisions**  
+**Data Analyst | Empowering decisions with data**  
 Currently based in **Ireland**
 
-I specialize in uncovering insights from data using tools like **Python**, **SQL**, and **Power BI**.  
-From healthcare to business operations, I love analyzing real-world datasets and telling compelling stories through data.
+I'm a results-driven data analyst skilled in uncovering actionable insights and building impactful dashboards. I work with data across industries to support data-informed decisions using a combination of coding, analytics, and visualization tools.
 
 ---
 
 ### Tools & Technologies I Use
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://lookerstudio.google.com/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib)](https://matplotlib.org/)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ---
 
@@ -39,4 +40,4 @@ From healthcare to business operations, I love analyzing real-world datasets and
 
 ---
 
-> "Good data tells a story. Great analysis brings that story to life."
+> “Behind every successful decision is clean, insightful data.”
