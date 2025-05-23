@@ -30,14 +30,13 @@ Whether it’s querying millions of rows, visualizing trends, or optimizing Exce
 
 ### Featured Projects
 
-- [**Healthcare-Insurance-Analysis**](https://github.com/Ratneshhhh/Healthcare-Insurance-Analysis)  
-  Explore and analyze healthcare claim data to uncover fraud patterns and usage trends.
+## Open Source Projects
 
-- [**Finance Risk Analysis for EU**](https://github.com/Ratneshhhh/Finance_Risk_Analysis-for-EU)  
-  Analyze macroeconomic indicators and risk metrics using Python & Excel.
-
-- [**Amazon Sales Report Analysis**](https://github.com/Ratneshhhh/Amazon-Sales-Report-Analysis)  
-  Business sales performance analysis using Power BI and Excel.
+| 🗂 Projects | ⭐ Stars | 🍴 Forks | 🐞 Issues | 📬 Pull Requests |
+|------------|---------|----------|------------|------------------|
+| [Healthcare Risk Analysis](https://github.com/Ratneshhhh/Healthcare-Insurance-Analysis) | 1 | 0 | 0 | 0 |
+| [Finance Risk Analysis for EU](https://github.com/Ratneshhhh/Finance_Risk_Analysis-for-EU) | 0 | 0 | 0 | 0 |
+| [Integrated Business Metrics Analyzer](https://github.com/Ratneshhhh/Integrated-Business_Metrics_Analyzer) | 0 | 0 | 0 | 0 |
 
 ---
 
