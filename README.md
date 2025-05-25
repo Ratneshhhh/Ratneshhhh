@@ -49,7 +49,7 @@ Whether it’s querying millions of rows, visualizing trends, or optimizing Exce
   - Flagged unusual trading behavior and deviations for volatility management.  
   - Visualized results to support strategic investment and portfolio analysis.
  
-  - [**Regression Variable Selection Analysis**](https://github.com/Ratneshhhh/Regression-Variable-Selection-Analysis)  
+- [**Regression Variable Selection Analysis**](https://github.com/Ratneshhhh/Regression-Variable-Selection-Analysis)  
   - Performed regression-based analysis to determine the most predictive variables  
   - Evaluated models using R², adjusted R², and mean squared error  
   - Used Excel for modeling and comparative performance analysis
