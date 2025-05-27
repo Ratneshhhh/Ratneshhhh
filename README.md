@@ -53,6 +53,10 @@ Whether it’s querying millions of rows, visualizing trends, or optimizing Exce
   - Performed regression-based analysis to determine the most predictive variables  
   - Evaluated models using R², adjusted R², and mean squared error  
   - Used Excel for modeling and comparative performance analysis
+ 
+- [**Excel Power Query Data Transformation**](https://github.com/Ratneshhhh/Excel-Power-Query-Data-Transformation)  
+  Transformed web and local data using Power Query. Cleaned, reshaped, and enriched data using steps like type conversion, column creation, and merging—all within Excel’s Power Query Editor.
+
 
 ---
 
