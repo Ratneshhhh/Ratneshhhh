@@ -33,6 +33,13 @@ Whether it’s querying millions of rows, visualizing trends, or optimizing Exce
   - Built a predictive model using Random Forest Regression to score insurance claim risk levels.  
   - Performed EDA to evaluate how lifestyle and medical data affect claim amounts.  
   - Delivered insights through Power BI dashboards to support personalized policy design.
+ 
+- [**Business Metrics Analyzer**](https://github.com/Ratneshhhh/business-metrics-analyzer)  
+  - Built a cloud-powered business dashboard using Power BI and SQL for company-wide performance insights.  
+  - Transformed raw data using Power Query and calculated KPIs using DAX measures (MoM, YoY, AOV).  
+  - Integrated AWS S3 + Amazon Athena to query cloud-stored data; plan to scale analysis using SQL.  
+  - Designed drill-through reports to analyze employee performance and product line contribution.
+
 
 - [**Business Metrics Performance Dashboard**](https://github.com/Ratneshhhh/Integrated-Business_Metrics_Analyzer)  
   - Combined multiple data sources using SQL to build a centralized performance dataset.  
