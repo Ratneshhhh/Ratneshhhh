@@ -41,7 +41,7 @@ Whether it’s querying millions of rows, visualizing trends, or optimizing Exce
   - Designed drill-through reports to analyze employee performance and product line contribution.
 
 
-- - [**HR Analytics Dashboard**](https://github.com/Ratneshhhh/HR-Analytics-Dashboard)  
+- [**HR Analytics Dashboard**](https://github.com/Ratneshhhh/HR-Analytics-Dashboard)  
   - Cleaned and transformed HR data using **Power Query** from both web and local sources.  
   - Created calculated columns and tables, then built **DAX measures** for KPIs like Satisfaction, Engagement, Absenteeism.  
   - Designed a **Power BI dashboard** with filters (Year, Department, Position), donut/bar charts, and KPI cards.  
