@@ -41,10 +41,12 @@ Whether it’s querying millions of rows, visualizing trends, or optimizing Exce
   - Designed drill-through reports to analyze employee performance and product line contribution.
 
 
-- [**Business Metrics Performance Dashboard**](https://github.com/Ratneshhhh/Integrated-Business_Metrics_Analyzer)  
-  - Combined multiple data sources using SQL to build a centralized performance dataset.  
-  - Created ER diagrams and applied data modeling for better structure and scalability.  
-  - Visualized KPIs to monitor financial and operational trends across departments.
+- - [**HR Analytics Dashboard**](https://github.com/Ratneshhhh/HR-Analytics-Dashboard)  
+  - Cleaned and transformed HR data using **Power Query** from both web and local sources.  
+  - Created calculated columns and tables, then built **DAX measures** for KPIs like Satisfaction, Engagement, Absenteeism.  
+  - Designed a **Power BI dashboard** with filters (Year, Department, Position), donut/bar charts, and KPI cards.  
+  - Analyzed workforce composition, diversity, and performance trends for HR decision-making.
+
 
 - [**Sales Trends & Product Performance Analysis**](https://github.com/Ratneshhhh/Amazon-Sales-Report-Analysis)  
   - Conducted exploratory data analysis to identify seasonal trends and product insights.  
