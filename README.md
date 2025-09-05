@@ -24,10 +24,23 @@ Whether it’s querying millions of rows, visualizing trends, or optimizing Exce
 [![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Looker Studio](https://img.shields.io/badge/-Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://lookerstudio.google.com/)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Crypto](https://img.shields.io/badge/-CRYPTO-3C3C3D?style=for-the-badge&logo=bitcoin&logoColor=white)](https://en.wikipedia.org/wiki/Cryptocurrency)
+[![AML](https://img.shields.io/badge/-AML-8B0000?style=for-the-badge)](https://en.wikipedia.org/wiki/Anti-money_laundering)
+[![KYC](https://img.shields.io/badge/-KYC-0047AB?style=for-the-badge)](https://en.wikipedia.org/wiki/Know_your_customer)
+[![Compliance](https://img.shields.io/badge/-Compliance-006400?style=for-the-badge)](https://en.wikipedia.org/wiki/Regulatory_compliance)
+
 
 ---
 
 ### Featured Projects
+
+### • [🛡️ CryptoGuard – Compliance Monitoring](https://github.com/Ratneshhhh/CryptoGuard-Compliance-Monitoring)
+
+- Built a compliance simulation system for ongoing KYC/AML risk monitoring in crypto exchanges using synthetic data.  
+- Developed SQL rule-based detection (PEP, Sanctions, Smurfing, Structuring, High-Value, Cross-Border, Velocity Bursts).  
+- Used Excel for staging & triage, SQL for rule engine, and Power BI for alert/case dashboards with SLA tracking.  
+- Implemented dynamic risk scoring, CDD review schedules, and automated EDD trigger queues.  
+
 
 - [**Financial Risk Analysis Scoring Model**](https://github.com/Ratneshhhh/Healthcare-Insurance-Analysis)  
   - Built a predictive model using Random Forest Regression to score insurance claim risk levels.  
