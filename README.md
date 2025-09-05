@@ -34,13 +34,12 @@ Whether it’s querying millions of rows, visualizing trends, or optimizing Exce
 
 ### Featured Projects
 
-### • [🛡️ CryptoGuard – Compliance Monitoring](https://github.com/Ratneshhhh/CryptoGuard-Compliance-Monitoring)
-
-- Built a compliance simulation system for ongoing KYC/AML risk monitoring in crypto exchanges using synthetic data.  
-- Developed SQL rule-based detection (PEP, Sanctions, Smurfing, Structuring, High-Value, Cross-Border, Velocity Bursts).  
-- Used Excel for staging & triage, SQL for rule engine, and Power BI for alert/case dashboards with SLA tracking.  
-- Implemented dynamic risk scoring, CDD review schedules, and automated EDD trigger queues.  
-
+- [**CryptoGuard – Compliance Monitoring**](https://github.com/Ratneshhhh/CryptoGuard-Compliance-Monitoring)  
+  - Built a compliance simulation system for monitoring post-onboarding KYC/AML risks in crypto exchanges using synthetic data.  
+  - Developed SQL rule-based detection (PEP, Sanctions, Structuring, High-Value, Cross-Border, Velocity Bursts).  
+  - Used Excel for staging & triage, SQL for rule engine, and Power BI for alert/case dashboards with SLA tracking.  
+  - Implemented dynamic risk scoring, CDD review schedules, and automated EDD trigger queues.
+  - 
 
 - [**Financial Risk Analysis Scoring Model**](https://github.com/Ratneshhhh/Healthcare-Insurance-Analysis)  
   - Built a predictive model using Random Forest Regression to score insurance claim risk levels.  
