@@ -50,12 +50,13 @@ Whether it’s querying millions of rows, visualizing trends, or optimizing Exce
   - Transformed raw data using Power Query and calculated KPIs using DAX measures (MoM, YoY, AOV).  
   - Integrated AWS S3 + Amazon Athena to query cloud-stored data; plan to scale analysis using SQL.  
   - Designed drill-through reports to analyze employee performance and product line contribution.
-
-  - [**Pharma Supply Chain Visibility – Product Concept Case Study**](https://github.com/Ratneshhhh/pharma-case-study)  
-  - Analysed pharma supply chain workflows to identify delivery delays and stock visibility challenges affecting pharmacies and healthcare providers.  
-  - Defined key metrics including delivery time, fulfillment rate, stock availability, and delay frequency to evaluate operational performance.  
+ 
+    
+ - [**Pharma Supply Chain Visibility – Product Concept Case Study**](https://github.com/Ratneshhhh/pharma-case-study)  
+   - Analysed pharma supply chain workflows to identify delivery delays and stock visibility challenges affecting pharmacies and healthcare providers.  
+   - Defined key metrics including delivery time, fulfillment rate, stock availability, and delay frequency to evaluate operational performance.  
   - Proposed a dashboard-based solution to improve real-time tracking, operational visibility, and data-driven decision-making.  
-  - Demonstrated product thinking by identifying user problems, defining metrics, and outlining a scalable solution approach.  
+   - Demonstrated product thinking by identifying user problems, defining metrics, and outlining a scalable solution approach.  
 
 
 - [**Workforce Insights Analysis**](https://github.com/Ratneshhhh/HR-Analytics-Dashboard)  
